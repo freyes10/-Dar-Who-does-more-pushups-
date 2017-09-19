@@ -53,6 +53,14 @@ myex + geom_boxplot()
 
 The plot reveals that line players all weigh more than all but the heaviest skill player.
 
+
+We want to run a stats test of difference of means on weight between the skills and line players.
+
+```{r}
+t.test(weight~position,data=pushups)
+```
+
+
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
