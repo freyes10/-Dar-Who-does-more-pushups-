@@ -82,3 +82,4 @@ The p-value so low that we conclude that we are going to reject the null hypothe
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
 
+In conclusion, the line players averaged less push ups than the skill players. The line players averaged 15 pushups and the skill players averaged 50 pushups. The line players weighed a lot more than the skill players.The null hypothesis is false because the p-value was too low it was at 1.71e-05. 
