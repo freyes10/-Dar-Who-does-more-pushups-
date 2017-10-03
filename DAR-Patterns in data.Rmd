@@ -48,6 +48,7 @@ Our Research Question is:
 ```{r}
 myex <- ggplot(pushups,aes(x=position,y=weight))
 myex + geom_boxplot()
+myex + geom_violin()
 ```
 
 
@@ -63,6 +64,10 @@ t.test(weight~position,data=pushups)
 
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
+```{r}
+favstats(pushups~position,data=pushups)
+```
 
 
 # Inferential Results
