@@ -34,7 +34,7 @@ Our Research Question is:
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-
+We are running a variable analysis test then we're going to make a box plot to get the data but once we get the boxplot we're gonna make a violin plot, and then a t-test.
 
 
 
