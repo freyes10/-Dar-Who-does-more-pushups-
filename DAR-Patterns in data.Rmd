@@ -57,7 +57,7 @@ Our Research Question is:
 t.test(weight~position,data=pushups)
 ```
 
-The p-value so low that we conclude that we are going to reject the null hypothesis.
+The p-value so low that we conclude that we are going to reject the null hypothesis. The alternative is saying that they're not the same.the probabilitiy of those being the same if they get this p-value 1.731e-05.
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
